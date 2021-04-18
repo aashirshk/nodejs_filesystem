@@ -1,0 +1,11 @@
+{
+  "name": "nodejs_fs",
+  "version": "1.0.0",
+  "description": "Nodejs file system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aashir",
+  "license": "ISC"
+}
